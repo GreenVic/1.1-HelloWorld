@@ -49,3 +49,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.scvd
+*.v
+*.lst
+*.iex
+*.axf
+*.htm
+*.lnp
+*.sct
+*.dep
+*.crf
+JLinkLog.txt
